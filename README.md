@@ -5,7 +5,8 @@
   <ul>
     <li>I am <b>Mobile Developer</b>, <b>FullStack .NET Developer & Software Architect</b>;</li>
     <li>Enthusiastic about <b>mobile</b> & <b>.NET Development</b> and <b>Software Architecture</b>;</li>
-    <li>Graduated in <b>Technology in Systems Analysis and Development</b>.</li>
+    <li>Graduated in <b>Technology in Systems Analysis and Development</b>;</li>
+    <!-- <li>My personal projects are on <a href="https://gitlab.com/miquelin">GitLab</a>.</li> -->
   </ul>
 </div>
 
