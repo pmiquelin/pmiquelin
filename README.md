@@ -53,12 +53,6 @@
   <img alt="RabbitMQ" align="center" height="23" width="23" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
 </div>
 
-### ORM
-
-<div align="center">
-  <img alt="Prisma" align="center" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
-</div>
-
 ### Database
 
 <div align="center">
