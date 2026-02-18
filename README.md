@@ -43,7 +43,7 @@
   <img alt="GraphQL" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
 </div>
 
-### Microservices & Messaging
+### Microservices, Messaging & Observability
 
 <div align="center">
   <img alt="nginx" align="center" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
@@ -53,7 +53,7 @@
   <img alt="RabbitMQ" align="center" height="23" width="23" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
 </div>
 
-### Database
+### Databases
 
 <div align="center">
   <img alt="PostgreSQL" align="center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
