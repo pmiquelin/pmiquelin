@@ -35,6 +35,8 @@
   <img alt="C#" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img alt=".NET Core" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
   <img alt="ASP.NET" align="center" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
+  <img alt="Node.js" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img alt="NestJS" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
   <img alt="GraphQL" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
 </div>
 
@@ -55,8 +57,16 @@
   <img alt="PostgreSQL" align="center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img alt="MongoDB" align="center" height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img alt="Neo4j" align="center" height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" />
+  <img alt="Amazon DynamoDB" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" />
   <img alt="Redis" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
   <img alt="Firebase" align="center" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+</div>
+
+### ORM
+
+<div align="center">
+  <img alt="EF Core" align="center" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" />
+  <img alt="Prisma" align="center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
 </div>
 
 ### Software Testing
@@ -66,6 +76,12 @@
   <img alt="Jest" align="center" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
   <img alt="Cypress" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
   <img alt="Playwright" align="center" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+</div>
+
+### Code Analysis Tools
+
+<div align="center">
+  <img alt="Qodona" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qodana/qodana-original.svg" />
 </div>
 
 ### Build Tools
