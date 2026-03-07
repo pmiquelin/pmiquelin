@@ -83,7 +83,6 @@
 
 <div align="center">
   <img alt="Gradle" align="center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
-  <img alt="Maven" align="center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
 </div>
 
 ### DevOps Tools
