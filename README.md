@@ -71,7 +71,6 @@
   <img alt="Jest" align="center" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
   <img alt="Cypress" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
   <img alt="Playwright" align="center" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
-  <img alt="JUnit" align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" />
 </div>
 
 ### Code Analysis Tools
