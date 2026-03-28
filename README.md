@@ -1,5 +1,9 @@
 # Welcome! 👋
 
+> [!IMPORTANT]
+>
+> ### Perfil apenas para estudos!
+
 ## About me
 <div>
   <ul>
