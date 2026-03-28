@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 >
-> ### Perfil apenas para estudos!
+> ### Profile for study purposes only!
 
 ## About me
 <div>
