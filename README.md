@@ -17,7 +17,7 @@
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pmiquelin&card_width=320&layout=pie&theme=tokyonight&size_weight=0&count_weight=1" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pmiquelin&card_width=320&layout=pie&theme=tokyonight" />
 </div>
 
 ## Main Technologies
