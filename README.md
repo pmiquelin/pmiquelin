@@ -32,7 +32,7 @@
   <img alt="React Native" align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />
 </div>
 
-### BackEnd & API
+### BackEnd
 
 <div align="center">
   <img alt="C#" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
