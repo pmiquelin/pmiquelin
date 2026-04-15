@@ -35,7 +35,7 @@
 
 ## Main Technologies
 
-### Web
+### Web 
 <div align="center">
   <img alt="HTML" align="middle" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS" align="middle" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
