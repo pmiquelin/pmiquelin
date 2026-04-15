@@ -33,7 +33,7 @@
   </a>
 </div>
 
-## Main Technologies
+## 💻 Main Technologies
 
 ### Web
 <div align="center">
