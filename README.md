@@ -86,7 +86,7 @@
   <img alt="Jest" align="middle" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
   <img alt="Cypress" align="middle" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
   <img alt="Playwright" align="middle" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
-</p>
+</div>
 
 ### Code Analysis Tools
 <div align="center">
