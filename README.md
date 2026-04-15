@@ -4,7 +4,7 @@
 >
 > ### Profile for study purposes only!
 
-## About me
+## 💎 About me
 <div>
   <ul>
     <li>I am <b>Mobile Developer</b>, <b>FullStack .NET Developer</b> & <b>Software Architect</b>;</li>
