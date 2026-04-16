@@ -16,7 +16,7 @@
 
 ## 💻 Main Technologies
 
-- 🎯 Currently, I am working on: mobile apps, backend, DDD and some software architectures;
+- 🎯 Currently, I am working on: mobile apps, backend (microservices), DDD and some software architectures;
 - 🚀 Main technologies:
   - JavaScript;
   - TypeScript;
